@@ -7,7 +7,7 @@
 - 
 - 💞️ I’m looking to collaborate on research surrounding health related topics
 - 
-- 📫 How to reach me mailto:aashigarg0604%40gmail.com
+- 📫 How to reach me mailto:aashigarg0604@gmail.com (aashigarg0604@gmail.com)
 
 <!---
 aashigarg0604/aashigarg0604 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
